@@ -1,1 +1,4 @@
-
+-- Upozornění:
+-- Tento skript je vlastnictvím Itzz.Ado.
+-- Jakékoli kopírování, úpravy nebo redistribuce bez souhlasu autora jsou zakázány.
+-- Pokud máš zájem připoj se zde: https://discord.gg/x59sd97Qvm
